@@ -1,0 +1,51 @@
+.AddPdf {
+  margin-top: 50px;
+}
+
+.AddPdf-Form {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.AddPdf-heading {
+  text-align: center;
+}
+
+.head {
+  color: #333;
+}
+
+.AddPdf-desc {
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.form-control {
+  margin-top: 10px;
+}
+
+.my-3 {
+  margin-top: 20px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.btn-primary:disabled {
+  opacity: 0.65;
+}
